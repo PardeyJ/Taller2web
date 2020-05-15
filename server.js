@@ -44,5 +44,5 @@ app.listen(3000, function () {
     console.log('servidor iniciado');
   });
 
-  //check imagenes de productos
+  //database
   
