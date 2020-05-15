@@ -12,3 +12,4 @@ form.addEventListener('submit', function () {
     input.value = localStorage.getItem('cartList');
     localStorage.removeItem('cartList');
 });
+//css más bonito
