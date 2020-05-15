@@ -7,7 +7,7 @@ const products = [
     price: 60000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 1,
     img: '/data/trago1.png'
     
 
@@ -22,7 +22,7 @@ const products = [
     price: 70000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 2,
     img: '/data/trago2.png'
 
 
@@ -36,7 +36,7 @@ const products = [
     price: 60000 ,
     licor: 'no tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 3,
     img: '/data/trago3.png'
 
 
@@ -51,7 +51,7 @@ const products = [
     price: 75000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 4,
     img: '/data/trago4.png'
 
 
@@ -66,7 +66,7 @@ const products = [
     price: 30000 ,
     licor: 'no tiene',
     promo: 'tiene',
-    tipo: 'clasico',
+    tipo: 5,
     img: '/data/trago5.png'
 
 
@@ -81,7 +81,7 @@ const products = [
     price: 58000 ,
     licor: 'tiene',
     promo: 'tiene',
-    tipo: 'de la casa',
+    tipo: 6,
     img: '/data/trago6.png'
 
 
@@ -95,7 +95,7 @@ const products = [
     price: 80000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 7,
     img: '/data/trago7.png'
 
 
@@ -110,7 +110,7 @@ const products = [
     price: 70000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 8,
     img: '/data/trago8.png'
 
 
@@ -125,7 +125,7 @@ const products = [
     price: 90000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 9,
     img: '/data/trago9.png'
 
 
@@ -139,7 +139,7 @@ const products = [
     price: 75000,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 10,
     img: '/data/trago10.png'
 
 
@@ -153,7 +153,7 @@ const products = [
     price: 40000 ,
     licor: 'no tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 11,
     img: '/data/trago11.png'
 
 
@@ -167,7 +167,7 @@ const products = [
     price: 75000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 12,
     img: '/data/trago12.png'
 
 
@@ -180,7 +180,7 @@ const products = [
     price: 25000 ,
     licor: 'no tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 13,
     img: '/data/trago13.png'
 
 
@@ -193,7 +193,7 @@ const products = [
     price: 85000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 14,
     img: '/data/trago14.png'
 
 
@@ -208,7 +208,7 @@ const products = [
     price: 80000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 15,
     img: '/data/trago15.png'
 
 
@@ -222,7 +222,7 @@ const products = [
     price: 75000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 16,
     img: '/data/trago16.png'
 
 
@@ -236,7 +236,7 @@ const products = [
     price: 60000 ,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 17,
     img: '/data/trago17.png'
 
 
@@ -250,7 +250,7 @@ const products = [
     price: 30000 ,
     licor: 'no tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 18,
     img: '/data/trago18.png'
 
 
@@ -265,7 +265,7 @@ const products = [
     price: 50000,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'clasico',
+    tipo: 19,
     img: '/data/trago19.png'
 
 
@@ -279,7 +279,7 @@ const products = [
     price: 75000,
     licor: 'tiene',
     promo: 'no tiene',
-    tipo: 'de la casa',
+    tipo: 20,
     img: '/data/trago20.png'
 
 
