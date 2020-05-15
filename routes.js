@@ -17,6 +17,17 @@ function configureRoutes (app,db) {
                 $gt: parseInt(req.query.price_gt)
             }
         }
+
+        if(req.query.tipo_lt){
+          filters.tipo = {
+              $lt: parseInt(req.query.tipo_lt)
+          }
+      }
+      if(req.query.tipo_gt){
+          filters.tipo = {
+              $gt: parseInt(req.query.tipo_gt)
+          }
+      }
         
         if(req.query.search){
             filters.licor = {
